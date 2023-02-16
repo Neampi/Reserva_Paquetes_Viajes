@@ -1,0 +1,56 @@
+    [
+        {
+            "ubicacion":11,
+            "nombreHotel":"HOTEL MENCEY",
+            "valoracion":1,
+            "precio":70
+        },
+        {
+            "ubicacion":11,
+            "nombreHotel":"HOTEL ADONIS CAPITAL",
+            "valoracion":2,
+            "precio":100
+        },
+        {
+            "ubicacion":11,
+            "nombreHotel":"HOTEL PRINCIPE PAZ",
+            "valoracion":3,
+            "precio":120
+        },
+        {
+            "ubicacion":11,
+            "nombreHotel":"HOTEL TANAUSU",
+            "valoracion":4,
+            "precio":150
+        },
+        {
+            "ubicacion":11,
+            "nombreHotel":"HOTEL OCEANO",
+            "valoracion":5,
+            "precio":200
+        },
+        {
+            "ubicacion":9,
+            "nombreHotel":"HOTEL ATLANTICO",
+            "valoracion":4,
+            "precio":150
+        },
+        {
+            "ubicacion":9,
+            "nombreHotel":"HOTEL PELINOS",
+            "valoracion":3,
+            "precio":130
+        },
+        {
+            "ubicacion":9,
+            "nombreHotel":"HOTEL ADONIS PLAZA",
+            "valoracion":2,
+            "precio":110
+        },
+        {
+            "ubicacion":11,
+            "nombreHotel":"HOTEL HORIZONTE",
+            "valoracion":1,
+            "precio":110
+        }
+    ]
